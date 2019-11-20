@@ -1,0 +1,2 @@
+O principal objetivo deste trabalho é analisar a relação causal entre a desigualdade renda e os crimes violentos. Para realizar esta análise, estima-se um modelo de Mínimos Quadrados de Dois Estágios (MQ2E), onde a produtividade da terra no plantio do café é utilizada como variável instrumental para a desigualdade. 
+Os resultados obtidos indicam que um aumento da desigualdade implica em um crescimento dos crimes violentos, tais como roubo e homicídio.
