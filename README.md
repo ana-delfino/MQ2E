@@ -1,2 +1,2 @@
-O principal objetivo deste trabalho é analisar a relação causal entre a desigualdade renda e os crimes violentos. Para realizar esta análise, estima-se um modelo de Mínimos Quadrados de Dois Estágios (MQ2E), onde a produtividade da terra no plantio do café é utilizada como variável instrumental para a desigualdade. 
-Os resultados obtidos indicam que um aumento da desigualdade implica em um crescimento dos crimes violentos, tais como roubo e homicídio.
+This paper investigates the relationship between income inequality and violent crimes. To deal with possible endogeneity in income inequality we instrument this variable with coffee productivity. Results show that income inequality is positively associated with crime rates, such as robbery and homicide.
+This work was published in [Revista Espacios] (http://www.revistaespacios.com/a17v38n03/17380313.html)
